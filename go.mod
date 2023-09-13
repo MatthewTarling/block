@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module https://github.com/MatthewTarling/blockcoll
 
 go 1.19
